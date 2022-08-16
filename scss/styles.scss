@@ -1,0 +1,42 @@
+
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.content{
+  display: flex;
+  justify-content: center;  
+  margin-top: 8rem;
+  .divcard{
+    border-radius: 1.5rem;
+     img{
+      padding: 1rem;
+      border-radius: 2rem;
+     }
+     h5{
+      padding: 0.3rem;
+      text-align: center;
+      font-weight: 700;
+     }
+     p{
+      color: hsl(220, 15%, 55%);
+      font-size: 15px;
+      text-align: center;
+      font-weight: 400;
+     }
+  }
+}
+
+.cardbody{
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 1.5rem;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}

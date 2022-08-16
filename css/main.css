@@ -1,0 +1,32 @@
+body {
+  background-color: #d6e2f0; }
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin-top: 8rem; }
+  .content .divcard {
+    border-radius: 1.5rem; }
+    .content .divcard img {
+      padding: 1rem;
+      border-radius: 2rem; }
+    .content .divcard h5 {
+      padding: 0.3rem;
+      text-align: center;
+      font-weight: 700; }
+    .content .divcard p {
+      color: #7b879d;
+      font-size: 15px;
+      text-align: center;
+      font-weight: 400; }
+
+.cardbody {
+  background-color: white;
+  border-radius: 1.5rem; }
+
+.attribution {
+  font-size: 11px;
+  text-align: center; }
+
+.attribution a {
+  color: #3e52a3; }
